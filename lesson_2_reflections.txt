@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git needs to run the init command in order to recognise the directory as repository.this is needed for tracking.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging ae makes d files ready for comitting so that they could be tracked.
+
+How can you use the staging area to make sure you have one commit per logical change?
+by using get diff --stage command ,we can get to know the difference between the wd n staging are and we can ensure that the changes have been comitted per logical change.

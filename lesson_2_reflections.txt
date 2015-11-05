@@ -8,3 +8,9 @@ staging ae makes d files ready for comitting so that they could be tracked.
 
 How can you use the staging area to make sure you have one commit per logical change?
 by using get diff --stage command ,we can get to know the difference between the wd n staging are and we can ensure that the changes have been comitted per logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When we want to experiment with the code to see whether it works in better way ,we can use branches to have no risk,hence not creating trouble  with the main code.
+
+How do the diagrams help you visualize the branch structure?
+diagrams make it easier to get a virtual view of the branching in github code.reachability concept makes it easier to understand which commits will be listed and which wont.

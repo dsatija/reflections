@@ -14,3 +14,10 @@ When we want to experiment with the code to see whether it works in better way ,
 
 How do the diagrams help you visualize the branch structure?
 diagrams make it easier to get a virtual view of the branching in github code.reachability concept makes it easier to understand which commits will be listed and which wont.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merging helps to combine the changes into one single branch.diagram helps us to visualize the branches with the changes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros---no risk of guess wrk by git
+cons--tedious sometimes

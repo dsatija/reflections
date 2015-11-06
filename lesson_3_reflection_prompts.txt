@@ -10,7 +10,9 @@ It gives us more control over the code as we may want to incorporate changes aft
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+ forks---for making the clone of others repo on git hub servers into your profile
+ clones--copy of repo locally 
+ branch --on a single repo ,if we want to create changes,we create branch
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?

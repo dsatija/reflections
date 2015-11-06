@@ -17,12 +17,12 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+It helps to make changes to the most updated and accurate code.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Collaboration can be done using pull requests.Easier part is that we dont need to create a copy of the code to be reviewed by other collaborator.Harder part would be to resolve conflicts manually for merging.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

@@ -5,7 +5,7 @@ When we want other users to contribute to the repository or we want to access th
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+It gives us more control over the code as we may want to incorporate changes after deciding whether we want it to be there or not.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
@@ -24,5 +24,7 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+
+
 
     Fill in your answer here
